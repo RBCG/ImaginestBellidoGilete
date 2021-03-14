@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+
+.texto{
+    text-align: justify;
+    text-justify: inter-word;
+    margin-top: 20px;
+}
+
+#img{
+    width: 100px;
+    margin-top: 50px;
+}
+
+.row{
+    margin: 40px;
+    border-radius: 30px;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
+
+.titulo{
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+body{
+    background: #3c942c;
+    background: -webkit-linear-gradient(-135deg, #0a809e, #57b846);
+    background: -o-linear-gradient(-135deg, #0a809e, #57b846);
+    background: -moz-linear-gradient(-135deg, #0a809e, #57b846);
+    background: linear-gradient(-135deg, #0a809e, #57b846);
+}
+
+.txt2{
+    text-decoration: none;
+}
